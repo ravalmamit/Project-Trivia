@@ -1,14 +1,14 @@
-#GA-SEI-Project-One
+#GA-SEI-Project-Trivia
 
 ##Trivia (Self-scoring)
 
-#####SEI 32221 Project One
+#####SEI 32221 Project Trivia
 
 ###Welcome
 
 Welcome to the game of Trivia. It's a quiz to test your knowledge on various topics and categories. This is a one-player game and self scoring. A series of questions on a selected topic will be presented with each having 4 possible answers as options. Each question will get 10 secs to answer. The player will select the option and the app will display if the answer is correct or not. Each correct answer from the player will get 10 points. A challenge in each topic will consist of total 10 questions. The final result after the challenge will display how many correct answers attempted and the total score. 
 
-![](2021-04-13-18-53-12.png)
+   ![](app.png)
 
 ### Technologies used
 
@@ -35,9 +35,9 @@ https://ravalmamit.github.io/Project-Trivia/
 
 ### Wireframes
 
-![](2021-04-13-19-19-58.png)
+![](wireframe1.png)
 
-![](2021-04-13-19-21-11.png)
+![](wireframe2.png)
 
 ### Unsolved problems
 * Responsive design - I didn't start the project with the responsive design in mind. The learning experience is to do the responsive design in the start of the project when you are designing the page. 
