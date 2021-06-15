@@ -35,9 +35,9 @@ https://ravalmamit.github.io/Project-Trivia/
 
 ### Wireframes
 
-![](wireframe1.png)
+![](wireframes/wireframe1.png)
 
-![](wireframe2.png)
+![](wireframes/wireframe2.png)
 
 ### Unsolved problems
 * Responsive design - I didn't start the project with the responsive design in mind. The learning experience is to do the responsive design in the start of the project when you are designing the page. 
