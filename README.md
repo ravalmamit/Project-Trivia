@@ -8,7 +8,7 @@
 
 Welcome to the game of Trivia. It's a quiz to test your knowledge on various topics and categories. This is a one-player game and self scoring. A series of questions on a selected topic will be presented with each having 4 possible answers as options. Each question will get 10 secs to answer. The player will select the option and the app will display if the answer is correct or not. Each correct answer from the player will get 10 points. A challenge in each topic will consist of total 10 questions. The final result after the challenge will display how many correct answers attempted and the total score. 
 
-   ![](app.png)
+   ![](images/app.png)
 
 ### Technologies used
 
